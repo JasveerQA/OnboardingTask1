@@ -5811,11 +5811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\ProjectMarsSpecFlow\\ProjectMarsSpecFlow.csproj",
+      "projectUniqueName": "D:\\source\\OnboardingTask1\\ProjectMarsSpecFlow.csproj",
       "projectName": "ProjectMarsSpecFlow",
-      "projectPath": "D:\\source\\ProjectMarsSpecFlow\\ProjectMarsSpecFlow.csproj",
+      "projectPath": "D:\\source\\OnboardingTask1\\ProjectMarsSpecFlow.csproj",
       "packagesPath": "C:\\Users\\jasve\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\ProjectMarsSpecFlow\\obj\\",
+      "outputPath": "D:\\source\\OnboardingTask1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jasve\\AppData\\Roaming\\NuGet\\NuGet.Config",
